@@ -1,0 +1,35 @@
+#addbody{
+    background: rgba(0, 0, 0, 0.33);
+    width: 1920px;
+    min-height: 912px;
+    height: auto;
+}
+/*页面左部div美化*/
+#dispageleft{
+    border-radius:10px;border:1px solid rgba(0, 0, 0, 0);
+    /*background: #ff00ea;*/
+    width: 274.28px;
+    min-height: 802px;
+    height: auto;
+    float: left;
+}
+/*-------------------------------------------------*/
+/*页面右部div美化*/
+#dispageright{
+    border-radius:10px;border:1px solid rgba(0, 0, 0, 0);
+    /*background: rgba(255, 0, 0, 0.33);*/
+    width: 274.28px;
+    min-height: 802px;
+    height: auto;
+    float: right;
+}
+/*-------------------------------------------------*/
+/*页面中部div美化*/
+#dispagemid{
+    background: rgba(23, 86, 204, 0.45);
+    border-radius:20px;border:1px solid rgba(0, 0, 0, 0);
+    width: 1358px;
+    min-height: 802px;
+    height: auto;
+    float: left;
+}

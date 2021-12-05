@@ -1,0 +1,97 @@
+#addbody{
+    /*background: rgba(0, 0, 0, 0.33);*/
+    width: 1920px;
+    height: 912px;
+    /*height: auto;*/
+}
+/*页面左部div美化*/
+#dispageleft{
+    border-radius:10px;border:1px solid rgba(0, 0, 0, 0);
+    /*background: #ff00ea;*/
+    width: 274.28px;
+    height: 802px;
+    /*height: auto;*/
+    float: left;
+}
+/*-------------------------------------------------*/
+/*页面右部div美化*/
+#dispageright{
+    border-radius:10px;border:1px solid rgba(0, 0, 0, 0);
+    /*background: rgba(255, 0, 0, 0.33);*/
+    width: 274.28px;
+    height: 802px;
+    /*height: auto;*/
+    float: right;
+}
+/*-------------------------------------------------*/
+/*页面中部div美化*/
+#dispagemid{
+    /*background: rgba(234, 223, 223, 0.66);*/
+    border-radius:20px;border:1px solid rgba(0, 0, 0, 0);
+    width: 1358px;
+    height: 760px;
+    /*height: auto;*/
+    float: left;
+}
+
+
+
+#containtable{
+    width: 768px;
+    height: 300px;
+    position: relative;
+    border-radius: 20px;border: 1px solid rgba(23, 86, 204, 0);
+    /*background: rgba(249, 250, 230, 0.38);*/
+    /*margin-left: -100px;*/
+    /*margin-top:-100px;*/
+    left: 23%;
+    top: 10%;
+}
+/*第一行*/
+#tr1td1{
+    font-style: italic;
+    text-align: center;
+    font-weight: bolder;
+    width: 335px;
+    font-size: 25px;
+    font-family: 微软雅黑;
+    color: black;
+}
+#tr1td2{
+    /*background: rgba(0, 0, 0, 0.2);*/
+    font-size: 25px;
+    width: 335px;
+    height: 40px;
+    border-radius:10px;border:1px solid rgba(0, 0, 0, 0.33);
+}
+
+#tijiao{
+    text-align: center;
+}
+#tianjia{
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    align-content: center;
+    /*color: rgba(0, 0, 0, 0.33);*/
+    border-radius:10px;border:1px solid rgba(0, 0, 0, 0.33);
+    font-weight: bolder;
+    text-align: center;
+}
+#shuming{
+    font-size: 25px;
+    width: 335px;
+    height: 40px;
+    border-radius:10px;border:1px solid rgba(0, 0, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+
+

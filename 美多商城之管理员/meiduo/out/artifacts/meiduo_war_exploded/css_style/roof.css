@@ -1,0 +1,242 @@
+/*顶部栏设计*/
+/*顶部栏*/
+#roof{
+    /*background: rgba(0, 0, 0, 0.33);*/
+    width: 1920px;
+    height: 110px;
+}
+/*功能链接div*/
+#d1{
+    /*!*background: red;*!*/
+    /*width: 274.28px;*/
+    /*height: 110px;*/
+    /*float: left;*/
+    /*div的灰色边框*/
+    /*border-radius:10px;border:1px solid rgba(0, 0, 0, 0.33);*/
+    /*background: rgba(0, 0, 0, 0.33);*/
+
+    width: 270px;
+    height: 110px;
+    float: left;
+    /*    让div居中显示*/
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    position:relative;
+}
+#d2{
+    /*background: blue;*/
+    /*width: 274.28px;*/
+    /*height: 110px;*/
+    /*float: left;*/
+    /*div的灰色边框*/
+    /*border-radius:10px;border:1px solid rgba(0, 0, 0, 0);*/
+    /*background: rgba(0, 0, 0, 0.33);*/
+
+    width: 270px;
+    height: 110px;
+    float: left;
+    /*    让div居中显示*/
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    position:relative;
+}
+#bt1{
+    text-indent: 20px;
+    font-size: 25px;
+    font-family: "微软雅黑";
+    font-style: italic;
+    font-weight: bolder;
+    /*border-radius:10px;border:1px solid rgba(0, 0, 0, 0.33);*/
+    text-align: center;
+    align-content: center;
+    width: 150px;
+    height: 50px;
+
+
+    margin:auto auto;
+    display:block;
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+}
+#d3{
+    /*background: green;*/
+    /*width: 274.28px;*/
+    /*height: 110px;*/
+    /*float: left;*/
+    /*div的灰色边框*/
+    /*border-radius:10px;border:1px solid rgba(0, 0, 0, 0.33);*/
+    /*background: rgba(0, 0, 0, 0.33);*/
+
+    width: 270px;
+    height: 110px;
+    float: left;
+    /*    让div居中显示*/
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    position:relative;
+}
+#bt2{
+    text-indent: 20px;
+    font-size: 25px;
+    font-family: "微软雅黑";
+    font-style: italic;
+    font-weight: bolder;
+    /*border-radius:10px;border:1px solid rgba(0, 0, 0, 0.33);*/
+    text-align: center;
+    align-content: center;
+    width: 150px;
+    height: 50px;
+
+
+    margin:auto auto;
+    display:block;
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+}
+#d4{
+    /*background: rgba(123, 23, 204, 0.54);*/
+    /*width: 274.28px;*/
+    /*height: 110px;*/
+    /*float: left;*/
+    /*div的灰色边框*/
+    /*border-radius:10px;border:1px solid rgba(0, 0, 0, 0.33);*/
+    /*background: rgba(0, 0, 0, 0.33);*/
+
+    width: 270px;
+    height: 110px;
+    float: left;
+    /*    让div居中显示*/
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    position:relative;
+}
+#bt3{
+    text-indent: 20px;
+    font-size: 25px;
+    font-family: "微软雅黑";
+    font-style: italic;
+    font-weight: bolder;
+    /*border-radius:10px;border:1px solid rgba(0, 0, 0, 0.33);*/
+    text-align: center;
+    align-content: center;
+    width: 150px;
+    height: 50px;
+
+
+    margin:auto auto;
+    display:block;
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+}
+#d5{
+    /*background: rgba(70, 0, 128, 0.93);*/
+    /*width: 274.28px;*/
+    /*height: 110px;*/
+    /*float: left;*/
+    /*div的灰色边框*/
+    /*border-radius:10px;border:1px solid rgba(0, 0, 0, 0.33);*/
+    /*background: rgba(0, 0, 0, 0.33);*/
+
+    width: 270px;
+    height: 110px;
+    float: left;
+    /*    让div居中显示*/
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    position:relative;
+}
+#bt4{
+    text-indent: 20px;
+    font-size: 25px;
+    font-family: "微软雅黑";
+    font-style: italic;
+    font-weight: bolder;
+    /*border-radius:10px;border:1px solid rgba(0, 0, 0, 0.33);*/
+    text-align: center;
+    align-content: center;
+    width: 150px;
+    height: 50px;
+
+
+    margin:auto auto;
+    display:block;
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+}
+#d6{
+    /*background: rgba(119, 128, 0, 0.57);*/
+    /*width: 274.28px;*/
+    /*height: 110px;*/
+    /*float: left;*/
+    /*div的灰色边框*/
+    /*border-radius:10px;border:1px solid rgba(0, 0, 0, 0.33);*/
+    /*background: rgba(0, 0, 0, 0.33);*/
+
+    width: 270px;
+    height: 110px;
+    float: left;
+    /*    让div居中显示*/
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    position:relative;
+}
+#bt5{
+    text-indent: 20px;
+    font-size: 25px;
+    font-family: "微软雅黑";
+    font-style: italic;
+    font-weight: bolder;
+    /*border-radius:10px;border:1px solid rgba(0, 0, 0, 0.33);*/
+    text-align: center;
+    align-content: center;
+    width: 150px;
+    height: 50px;
+
+
+    margin:auto auto;
+    display:block;
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+}
+#d7{
+    /*background: rgba(0, 128, 98, 0.6);*/
+    /*width: 274.28px;*/
+    /*height: 110px;*/
+    /*float: left;*/
+    /*div的灰色边框*/
+    border-radius:10px;border:1px solid rgba(0, 0, 0, 0);
+    /*background: rgba(0, 0, 0, 0.33);*/
+    width: 280px;
+    height: 110px;
+    float: left;
+}
+/*链接<span>美化*/
+/*-------------------------------------------------*/
+a{
+    color: rgba(0, 0, 0, 0.75);
+    text-decoration: none;
+    border-radius:10px;border:1px solid rgba(0, 0, 0, 0);
+    /*border-width: 10px;*/
+    background: rgba(234, 223, 223, 0.55);
+}
